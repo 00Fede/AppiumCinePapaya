@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="178397" started-at="2017-07-06T23:43:55Z" finished-at="2017-07-06T23:46:53Z">
+  <suite name="Default suite" duration-ms="228414" started-at="2017-07-06T23:47:06Z" finished-at="2017-07-06T23:50:54Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="178397" started-at="2017-07-06T23:43:55Z" finished-at="2017-07-06T23:46:53Z">
+    <test name="Default test" duration-ms="228414" started-at="2017-07-06T23:47:06Z" finished-at="2017-07-06T23:50:54Z">
       <class name="testing.TestCC">
-        <test-method status="PASS" signature="setUpAppium()[pri:0, instance:testing.TestCC@4e1d422d]" name="setUpAppium" is-config="true" duration-ms="22971" started-at="2017-07-06T18:43:55Z" finished-at="2017-07-06T18:44:18Z">
+        <test-method status="PASS" signature="setUpAppium()[pri:0, instance:testing.TestCC@4e1d422d]" name="setUpAppium" is-config="true" duration-ms="22629" started-at="2017-07-06T18:47:06Z" finished-at="2017-07-06T18:47:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpAppium -->
-        <test-method status="PASS" signature="mytest()[pri:0, instance:testing.TestCC@4e1d422d]" name="mytest" duration-ms="150327" started-at="2017-07-06T18:44:18Z" finished-at="2017-07-06T18:46:48Z">
+        <test-method status="PASS" signature="mytest()[pri:0, instance:testing.TestCC@4e1d422d]" name="mytest" duration-ms="200806" started-at="2017-07-06T18:47:28Z" finished-at="2017-07-06T18:50:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mytest -->
-        <test-method status="PASS" signature="CleanUpAppium()[pri:0, instance:testing.TestCC@4e1d422d]" name="CleanUpAppium" is-config="true" duration-ms="5055" started-at="2017-07-06T18:46:48Z" finished-at="2017-07-06T18:46:53Z">
+        <test-method status="PASS" signature="CleanUpAppium()[pri:0, instance:testing.TestCC@4e1d422d]" name="CleanUpAppium" is-config="true" duration-ms="4935" started-at="2017-07-06T18:50:49Z" finished-at="2017-07-06T18:50:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CleanUpAppium -->
